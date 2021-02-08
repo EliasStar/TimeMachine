@@ -1,0 +1,16 @@
+#pragma once
+
+#define LOCAL_CLOCK_PIN 8
+#define LOCAL_LATCH_PIN 7
+#define LOCAL_DATA_PIN 6
+
+#define REMOTE_CLOCK_PIN 13
+#define REMOTE_LATCH_PIN 12
+#define REMOTE_DATA_PIN 11
+
+#define FORWARD_PIN 4
+#define BACKWARD_PIN 2
+#define ENTER_PIN 3
+
+#define CHANGED_LED_PIN 9
+#define CHANGING_LED_PIN 10

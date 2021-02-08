@@ -1,0 +1,8 @@
+BasedOnStyle: Microsoft
+PointerAlignment: Left
+ColumnLimit: 0
+Cpp11BracedListStyle: false
+SpaceAfterCStyleCast: true
+SpaceBeforeCpp11BracedList: true
+SpacesInContainerLiterals: false
+AllowShortIfStatementsOnASingleLine: true
